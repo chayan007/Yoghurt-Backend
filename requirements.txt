@@ -4,7 +4,9 @@ Django==2.2.4
 djangorestframework==3.10.2
 ez-setup==0.9
 idna==2.8
+python-flipkart==0.2.0
 pytz==2019.2
 requests==2.22.0
+sanction==0.4.1
 sqlparse==0.3.0
 urllib3==1.25.3
